@@ -1,3 +1,8 @@
 Mark Blumenau <miblumenau@edu.hse.ru>
+<<<<<<< Updated upstream
 Aaaa Bbbbb <gfklgdfjgdflk@bjdfklbvndf.ri>
 aasa sasasas <asaasas>
+=======
+govno
+asaax
+>>>>>>> Stashed changes
